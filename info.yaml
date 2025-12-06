@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Half Adder"      # Project title
-  author:       "Khalid"      # Your name
+  author:       "Fatima Khalid"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Addition of 2 inputs using a half adder"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
